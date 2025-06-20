@@ -13,8 +13,9 @@ A simple Laravel web application for managing bookstore inventory with book rati
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/apekking28/bookstore-management-system.git
-cd bookstore-app
+# use SSH
+git clone git@github.com:apekking28/bookstore-management-system.git
+cd bookstore-management-system
 ```
 
 ### 2. Install Dependencies
